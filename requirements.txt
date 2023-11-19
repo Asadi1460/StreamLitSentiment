@@ -1,0 +1,7 @@
+streamlit
+textblob
+pandas
+emoji
+
+bs4
+urllib.request
